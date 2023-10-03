@@ -1,0 +1,19 @@
+/*
+Author: Amanda Ezeano
+Date: 28/09/23
+
+Filename: cssporfolio.css
+*/
+
+nav ul li {
+    display: block;
+    float: left;
+    width: 15.6%;
+    height: 20px;
+    text-align: center;
+    border: 1px solid #2d04ff;
+    background-color: #afd3f3;
+    line-height: 1.5em;
+    margin: 0px 4px 5px 0px;
+    }
+    
